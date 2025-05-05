@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm passionate about science, physics, coding, and
 
 ## 🛠️ Technologies & Tools
 - **Favourite Languages**: modern C++, Python
-- **Frameworks (c++)**: Qt, QML, Qt Quick, Catch, FakeIt
-- **Frameworks (Python)**: matplotlib, numpy, scipy, scapy, testcontainers, tox, pytest, behave
+  - **Frameworks (c++)**: Qt, QML, Qt Quick, Catch, FakeIt
+  - **Frameworks (Python)**: matplotlib, numpy, scipy, scapy, testcontainers, tox, pytest, behave
 - **Additional Languages**: Ansible, Bash, CMakeFile, CSS, DockerFile, HTML, JavaScript, Kotlin, Lua, Markdown, TypeScript
 - **Human Languages**: German, English, (Latin)
 - **Tools and IDEs**: Git, SSH, VS Code, Github Copilot
